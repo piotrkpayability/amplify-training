@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "amplify-training-app"
+    }
+  },
+  "defaultProject": "amplify-training-app",
+  "cli": {
+    "analytics": "baad2595-55bb-4b0c-a4e0-96be9f642f50"
+  }
 }
